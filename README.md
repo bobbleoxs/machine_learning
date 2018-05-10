@@ -5,7 +5,7 @@
 _Project Boston housing prices_
 
 ### Lesson 3 - Supervised learning   
-_Project CharityML_
+_Project Finding donors for CharityML_
 
 ### Lesson 4 - Deep learning  
 _Project Recognize dog breed_
