@@ -13,8 +13,8 @@ _Project Recognize dog breed_
 ### Lesson 5 - Unsupervised learning   
 _Project Create customer segment_
 
-### Lesson 6 - Reomfprcement learning   
+### Lesson 6 - Reinforcement learning   
 _Project Teach a quadcopter how to fly_
 
 ### Lesson 7 - Capstone   
-_Project ?_
+_Project Huamn Activity Recognition_
